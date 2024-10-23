@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mustafkrca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafkrca" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mustafa-karaca-222804192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafkrca" height="30" width="40" /></a>
 </p>
 
 
@@ -16,4 +16,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafkrca&" alt="mustafkrca" /></p>
 
-![snake gif](https://github.com/mustafkrca/mustafkrca/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/mustafkrca/mustafkrca/blob/main/github-contribution-grid-snake.gif)
