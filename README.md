@@ -59,8 +59,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafkrca&show_icons=true&locale=en&layout=compact&theme=dark" alt="mustafkrca" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafkrca&show_icons=true&locale=en&theme=dark" alt="mustafkrca" /></p>
-
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafkrca&show_icons=true&locale=en&theme=dark" alt="mustafkrca" /></p> 
+--> 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafkrca&theme=dark" alt="mustafkrca" /></p>
 
 ![snake gif](https://github.com/mustafkrca/mustafkrca/blob/output/github-snake.svg)
