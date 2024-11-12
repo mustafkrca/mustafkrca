@@ -63,4 +63,4 @@
 --> 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafkrca&theme=dark" alt="mustafkrca" /></p>
 
-![snake gif](https://github.com/mustafkrca/mustafkrca/blob/output/github-snake.svg)
+ <!--  ![snake gif](https://github.com/mustafkrca/mustafkrca/blob/output/github-snake.svg) --> 
